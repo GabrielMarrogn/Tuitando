@@ -1,0 +1,1 @@
+Twitter,atual X,  foi durante muit tempo conhecido por limitar as postagens em 140 caracteres. O ojetivo do progrma é onferir se um texto vai cabeberia em um tuíte.
